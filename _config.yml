@@ -1,0 +1,14 @@
+layout_spectrum: 0.5258846103679389
+typography_spectrum: 0.6591399216558784
+color:
+  brandStrength: 0.329094062326476
+  lightness: 0.6074035477358848
+  saturation: 0.35671973088756204
+  rhythmicContrast: 0.5530613008886576
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: eduatwork
